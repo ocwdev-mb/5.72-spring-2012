@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ]
+  ],
+  "legacy_uid": "dee284fe-ba2d-cd9b-d3c5-4a8f23f01451",
+  "instructors": {
+    "content": [
+      "6bc6e4ba-f737-2bb1-0b1a-637e19424173"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "35b03ee5-4397-63ef-0fab-624b90fc8601",
+    "website": "5-72-statistical-mechanics-spring-2012"
+  },
+  "course_title": "Statistical Mechanics",
+  "course_description": "This course discusses the principles and methods of statistical mechanics. Topics covered include classical and quantum statistics, grand ensembles, fluctuations, molecular distribution functions, other concepts in equilibrium statistical mechanics, and topics in thermodynamics and statistical mechanics of irreversible processes.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.72",
+  "course_image_thumbnail": {
+    "content": "b4b9a638-d5ed-f3dd-ae92-27adb0b9d50b",
+    "website": "5-72-statistical-mechanics-spring-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "7b7d1587-6c92-48c6-b7e5-4f5c0adbc596",
+  "site_short_id": "5.72-spring-2012",
+  "title": "Course Metadata"
+}
